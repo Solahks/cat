@@ -1,0 +1,23 @@
+html {
+    background-size: 100%;
+    overflow: hidden;
+    background-color: rgb(51, 2, 61);
+    background-repeat: no-repeat;
+  }
+
+  #tcat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  .poxene {
+    font-family: "Maven Pro", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 20px;
+    margin-left: 2%;
+    color: rgb(113, 212, 143);
+    text-shadow: 3px 3px black;
+  }
